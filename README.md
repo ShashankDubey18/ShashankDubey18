@@ -42,9 +42,9 @@
 --- 
 
 ## 📊 Scoreboard
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankDubey18&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShashankDubey18&theme=github_dark&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankDubey18&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShashankDubey18&theme=github_dark&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF)
 
 --- 
 
